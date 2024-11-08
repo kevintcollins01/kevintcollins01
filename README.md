@@ -1,5 +1,11 @@
-## Hi there 👋
+# Mathematician and Data Scientist
 
+### Education
+Bachelor of Arts in Mathematics at SUNY Binghamton
+Minor in Digital and Data Studies
+
+
+### Work Experience
 <!--
 **kevintcollins01/kevintcollins01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
