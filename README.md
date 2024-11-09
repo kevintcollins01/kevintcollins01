@@ -9,8 +9,9 @@ Link: http://rpubs.com/kevintcollins01/1243418
 
 
 ### Education
-Bachelor of Arts in Mathematics at SUNY Binghamton
-Minor in Digital and Data Studies
+- Bachelor of Arts in Mathematics at SUNY Binghamton
+
+- Minor in Digital and Data Studies
 
 
 ### Work Experience
