@@ -2,7 +2,7 @@
 
 ## Projects
 ### Completed
-Name: Unemployment and Labor Participation in Two Sectors
+Unemployment and Labor Participation in Two Sectors
 - Link: http://rpubs.com/kevintcollins01/1243418
 
 
