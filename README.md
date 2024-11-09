@@ -2,7 +2,10 @@
 
 ## Projects
 # Completed
-<a href = http://rpubs.com/kevintcollins01/1243418> Unemployment and Labor Participation in Two Sectors </a>
+Name: Unemployment and Labor Participation in Two Sectors
+Link: http://rpubs.com/kevintcollins01/1243418 
+
+
 
 
 ### Education
