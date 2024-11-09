@@ -3,18 +3,20 @@
 ## Projects
 ### Completed
 Name: Unemployment and Labor Participation in Two Sectors
-Link: http://rpubs.com/kevintcollins01/1243418 
+- Link: http://rpubs.com/kevintcollins01/1243418
 
 
 
 
-### Education
+
+
+## Education
 - Bachelor of Arts in Mathematics at SUNY Binghamton
 
 - Minor in Digital and Data Studies
 
 
-### Work Experience
+## Work Experience
 Math Tutor, Huntington Learning Center, Ridgewood NJ
 
 
