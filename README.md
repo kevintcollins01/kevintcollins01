@@ -1,4 +1,4 @@
-# Aspiring Data Analyst and Mathematics Graduate
+# Aspiring Data Analyst and Mathematician
 
 ### Contact Info
 - Email: kevin.t.collins01@gmail.com
