@@ -1,4 +1,9 @@
-# Mathematician and Data Scientist
+# Aspiring Data Analyst | Mathematics Graduate with a Passion for Data Science
+
+## Projects
+# Completed
+<a href = http://rpubs.com/kevintcollins01/1243418> Unemployment and Labor Participation in Two Sectors </a>
+
 
 ### Education
 Bachelor of Arts in Mathematics at SUNY Binghamton
@@ -6,6 +11,9 @@ Minor in Digital and Data Studies
 
 
 ### Work Experience
+Math Tutor, Huntington Learning Center, Ridgewood NJ
+
+
 <!--
 **kevintcollins01/kevintcollins01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
