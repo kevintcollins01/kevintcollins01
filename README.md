@@ -1,7 +1,7 @@
 # Aspiring Data Analyst | Mathematics Graduate with a Passion for Data Science
 
-## Projects
-# Completed
+### Projects
+## Completed
 Name: Unemployment and Labor Participation in Two Sectors
 Link: http://rpubs.com/kevintcollins01/1243418 
 
