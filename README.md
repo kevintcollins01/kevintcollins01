@@ -4,6 +4,7 @@
 - Email: kevin.t.collins01@gmail.com
 - Phone: (201)-397-4458
 
+
 ## Projects
 ### Completed
 Unemployment and Labor Participation in Two Sectors
@@ -19,10 +20,12 @@ Road Damage Locator and Classifier using YOLO & Image Segmentation
 
 
 
+
 ## Education
 Mathematical Sciences BA at SUNY Binghamton
 
 Digital and Data Studies Minor at SUNY Binghamton
+
 
 
 ## Work Experience
