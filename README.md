@@ -1,4 +1,4 @@
-# Aspiring Data Analyst | Mathematics Graduate with a Passion for Data Science
+# Aspiring Data Analyst and Mathematics Graduate
 
 ## Projects
 ### Completed
@@ -9,14 +9,16 @@ Data Visualization and Analysis of Southeast Asia’s Development
 - Link: https://public.tableau.com/views/SEAdataviz/FinalProject?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ### In Progress
+Misinformation/Disinformation Detector using Deep Learning
 
+Road Damage Locator and Classifier using YOLO & Image Segmentation
 
 
 
 ## Education
-- Bachelor of Arts in Mathematics at SUNY Binghamton
+- Mathematical Sciences BA at SUNY Binghamton
 
-- Minor in Digital and Data Studies
+- Digital and Data Studies Minor at SUNY Binghamton
 
 
 ## Work Experience
